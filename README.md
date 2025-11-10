@@ -48,7 +48,7 @@ Make sure you have installed:
 
 ###  Clone the Repository
 
-bash git clone <your-repo-url> cd Online.ECommerce
+bash git clone https://github.com/harilakkakula/Online.ECommerce.git cd Online.ECommerce
 
 ## Run with Docker Compose
 
